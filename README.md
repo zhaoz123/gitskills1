@@ -4,4 +4,4 @@ bbbbbbb
 cccccc
 ooooooooooooo
 Creating a new branch is quick AND simple.
-createing a new branch dev.
+Createing a new branch dev.
